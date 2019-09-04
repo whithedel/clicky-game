@@ -1,13 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Barriecito|Josefin+Sans|Lexend+Giga|Luckiest+Guy|Quicksand|Righteous|Saira+Stencil+One&display=swap');
+
+/* font-family: 'Righteous', cursive;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Saira Stencil One', cursive;
+font-family: 'Barriecito', cursive;
+font-family: 'Lexend Giga', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Josefin Sans', sans-serif; */
+
 .figure {
     /* background: #fff; */
     border-radius: 2px;
     height: 250px;
     margin: 1rem 2rem 1rem 2rem;
     width: 250px;
-    box-shadow: 0 3px 6px rgb(3, 214, 3), 0 3px 6px #999;
+    box-shadow: 0 3px 6px rgb(0, 0, 0), 0 3px 6px #999;
     text-align: center;
     border-radius: 3rem !important;
-    border: 3px solid rgb(83, 164, 81) !important;
+    border: 3px solid rgb(148, 0, 0) !important;
   }
   
   
@@ -20,8 +30,15 @@
     padding-left: 1rem;
     padding-right: 1rem;
     font-size: 20px;
-    color: black;
+    color: rgb(255, 0, 0);
     font-size: 1rem;
-    text-shadow: 2px 2px rgb(13, 219, 47);
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    /* font-family: 'Righteous', cursive; */
+    font-family: 'Luckiest Guy', cursive;
+    /* font-family: 'Saira Stencil One', cursive; */
+    /* font-family: 'Barriecito', cursive; */
+    /* font-family: 'Lexend Giga', sans-serif; */
+    /* font-family: 'Quicksand', sans-serif; */
+    /* font-family: 'Josefin Sans', sans-serif; */
   }
   
