@@ -70,7 +70,7 @@ class App extends Component {
         let randomNewCardsArr = this.shuffle(newCardsArr)
         this.setState({ 
           cards : randomNewCardsArr,
-          textAnimation : setTimeout(function(){ return '' }, 1000)
+          //textAnimation : setTimeout(function(){ return '' }, 1000)
         })
 
     });
