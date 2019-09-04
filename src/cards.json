@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "hasBeenClicked": false,
+    "backgroundImage":"https://i.pinimg.com/originals/bb/0d/45/bb0d4572eae04ea2b806c6a05b0e2afa.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "hasBeenClicked": false,
+    "backgroundImage":"https://i.ytimg.com/vi/AhfvhWZtWXY/maxresdefault.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "hasBeenClicked": false,
+    "backgroundImage":"https://cafart.r.worldssl.net/images/Category_108482/subcat_179264/Eb5fTquM_011216024051lola.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+    "hasBeenClicked": false,
+    "backgroundImage":"https://cn.i.cdn.tides.test-ti-platform.com/content/1123/showpage/dexter%27s-laboratory/ae/dexterslab-backgroundbottom.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Courage",
+    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+    "hasBeenClicked": false,
+    "backgroundImage":"https://i.pinimg.com/736x/c4/0d/c6/c40dc6f1c3a5f3b9b36a757d78fcdd09.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Doug Funnie",
+    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+    "hasBeenClicked": false,
+    "backgroundImage":"https://i.etsystatic.com/8460375/r/il/a35c77/1324906362/il_794xN.1324906362_5o66.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+    "hasBeenClicked": false,
+    "backgroundImage":"https://www.tokkoro.com/picsup/2804078-simplistic-tv-shows-tv-cartoons-red-quotes-bugs-bunny-looney-tunes-daffy-duck___abstract-wallpapers.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Johnny Bravo",
+    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
+    "hasBeenClicked": false,
+    "backgroundImage":"https://img00.deviantart.net/3612/i/2015/121/a/1/johnny_bravo_bg8_by_abstractamit-d2vps07.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tommy Pickles",
+    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
+    "hasBeenClicked": false,
+    "backgroundImage":"https://vignette.wikia.nocookie.net/rugrats/images/5/50/Wiki-background/revision/latest?cb=20130320220323"
+  },
+  {
+    "id": 10,
+    "name": "Rocko",
+    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
+    "hasBeenClicked": false,
+    "backgroundImage":"https://wallpapercave.com/wp/wp4050483.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Captain Planet",
+    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
+    "hasBeenClicked": false,
+    "backgroundImage":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/36d598c6-4029-47fc-a8cc-f41dd346c82f/dd48ht2-9fb27251-d7fc-474c-997f-d69916743e97.png/v1/fill/w_1024,h_556,q_80,strp/rk_captain_planet_db081_by_parafaunaarpg_dd48ht2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTU2IiwicGF0aCI6IlwvZlwvMzZkNTk4YzYtNDAyOS00N2ZjLWE4Y2MtZjQxZGQzNDZjODJmXC9kZDQ4aHQyLTlmYjI3MjUxLWQ3ZmMtNDc0Yy05OTdmLWQ2OTkxNjc0M2U5Ny5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.aT2yyOQKgebfsW1BmLxCYMA8_q550rlk37n6RmI3MI8"
+  },
+  {
+    "id": 12,
+    "name": "Ickis",
+    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
+    "hasBeenClicked": false,
+    "backgroundImage":"https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/EbyCIUQPl/videoblocks-violet-or-purple-low-poly-waving-surface-as-clear-backdrop-violet-geometric-vibrating-environment-or-pulsating-background-in-cartoon-low-poly-popular-modern-stylish-3d-design_bule8i_mb_thumbnail-full01.png"
+  }
+]

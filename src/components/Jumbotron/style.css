@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Barriecito|Josefin+Sans|Lexend+Giga|Luckiest+Guy|Quicksand|Righteous|Saira+Stencil+One&display=swap');
+
+/* font-family: 'Righteous', cursive;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Saira Stencil One', cursive;
+font-family: 'Barriecito', cursive;
+font-family: 'Lexend Giga', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Josefin Sans', sans-serif; */
+
+.jumbotron {
+    width: 100%;
+    background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3NSIgaGVpZ2h0PSIxMDAiPgo8cmVjdCB3aWR0aD0iNzUiIGhlaWdodD0iMTAwIiBmaWxsPSJzbGF0ZWdyYXkiPjwvcmVjdD4KPGNpcmNsZSBjeD0iNzUiIGN5PSI1MCIgcj0iMjguMyUiIHN0cm9rZS13aWR0aD0iMTIiIHN0cm9rZT0iIzlhYTZiMiIgZmlsbD0ibm9uZSI+PC9jaXJjbGU+CjxjaXJjbGUgY3g9IjAiIHI9IjI4LjMlIiBzdHJva2Utd2lkdGg9IjEyIiBzdHJva2U9IiM5YWE2YjIiIGZpbGw9Im5vbmUiPjwvY2lyY2xlPgo8Y2lyY2xlIGN5PSIxMDAiIHI9IjI4LjMlIiBzdHJva2Utd2lkdGg9IjEyIiBzdHJva2U9IiM5YWE2YjIiIGZpbGw9Im5vbmUiPjwvY2lyY2xlPgo8L3N2Zz4=");
+    text-shadow: 2px 2px rgba(255, 255, 255, 0.144);
+    /* font-family: 'Righteous', cursive; */
+    font-family: 'Luckiest Guy', cursive;
+    /* font-family: 'Saira Stencil One', cursive; */
+    /* font-family: 'Barriecito', cursive; */
+    /* font-family: 'Lexend Giga', sans-serif; */
+    /* font-family: 'Quicksand', sans-serif; */
+    /* font-family: 'Josefin Sans', sans-serif; */
+}

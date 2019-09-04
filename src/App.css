@@ -1,11 +1,42 @@
-.App {
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: rgba(78, 157, 221, 0.671)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+  height: 70vmin;
+  pointer-events: painted;
 }
 
 .App-header {
@@ -30,4 +61,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
